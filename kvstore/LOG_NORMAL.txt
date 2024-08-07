@@ -1,0 +1,3359 @@
+[NORMAL][2024-07-18 10:56:46][pid:11413]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 10:56:46][pid:11413]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 10:57:21][pid:11413]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 10:57:21][pid:11413]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:02:51][pid:11863]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:02:51][pid:11863]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:02:55][pid:11863]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:02:55][pid:11863]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:08:30][pid:12205]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:08:30][pid:12205]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:08:35][pid:12205]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:08:35][pid:12205]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:16:40][pid:12709]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:16:40][pid:12709]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:16:51][pid:12709]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:16:51][pid:12709]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:20:44][pid:13179]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:20:44][pid:13179]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:20:57][pid:13179]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:20:57][pid:13179]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:23:26][pid:13907]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:23:26][pid:13907]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:23:31][pid:13907]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:23:31][pid:13907]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:26:37][pid:14438]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:26:37][pid:14438]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:27:00][pid:14742]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:27:00][pid:14742]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:27:06][pid:14742]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:27:06][pid:14742]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:27:21][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:27:29][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:27:38][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:27:47][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:27:52][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:28:00][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:28:06][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:31:08][pid:14742]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 11:31:08][pid:14742]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 11:31:18][pid:14742]发送信息给[6]成功
+[NORMAL][2024-07-18 11:31:42][pid:14742]发送信息给[6]成功
+[NORMAL][2024-07-18 11:31:48][pid:14742]发送信息给[6]成功
+[NORMAL][2024-07-18 11:31:55][pid:14742]发送信息给[6]成功
+[NORMAL][2024-07-18 11:32:00][pid:14742]发送信息给[6]成功
+[NORMAL][2024-07-18 11:32:15][pid:14742]发送信息给[5]成功
+[NORMAL][2024-07-18 11:41:34][pid:17144]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:41:34][pid:17144]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:43:18][pid:18003]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:43:18][pid:18003]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:43:23][pid:18003]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:43:23][pid:18003]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:43:29][pid:18003]发送信息给[5]成功
+[NORMAL][2024-07-18 11:43:56][pid:18517]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:43:56][pid:18517]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:44:00][pid:18517]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:44:00][pid:18517]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:44:08][pid:18517]发送信息给[5]成功
+[NORMAL][2024-07-18 11:44:37][pid:18517]发送信息给[5]成功
+[NORMAL][2024-07-18 11:44:51][pid:18517]发送信息给[5]成功
+[NORMAL][2024-07-18 11:45:00][pid:18517]发送信息给[5]成功
+[NORMAL][2024-07-18 11:45:16][pid:19548]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 11:45:16][pid:19548]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 11:45:21][pid:19548]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 11:45:21][pid:19548]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 11:45:29][pid:19548]发送信息给[5]成功
+[NORMAL][2024-07-18 11:45:36][pid:19548]发送信息给[5]成功
+[NORMAL][2024-07-18 11:45:41][pid:19548]发送信息给[5]成功
+[NORMAL][2024-07-18 16:40:47][pid:22499]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 16:40:47][pid:22499]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 16:40:56][pid:22499]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 16:40:56][pid:22499]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 19:27:17][pid:23240]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 19:27:17][pid:23240]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 19:27:23][pid:23240]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 19:27:23][pid:23240]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 19:45:26][pid:24124]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 19:45:26][pid:24124]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 19:45:30][pid:24124]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 19:45:30][pid:24124]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 19:45:42][pid:24124]发送信息给[5]成功
+[NORMAL][2024-07-18 19:45:58][pid:24124]发送信息给[5]成功
+[NORMAL][2024-07-18 19:46:07][pid:24124]发送信息给[5]成功
+[NORMAL][2024-07-18 19:46:19][pid:24124]发送信息给[5]成功
+[NORMAL][2024-07-18 19:46:25][pid:24124]发送信息给[5]成功
+[NORMAL][2024-07-18 20:00:28][pid:24955]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:00:28][pid:24955]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:00:34][pid:24955]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:00:34][pid:24955]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:00:34][pid:24955]sockfd[5]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[6]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[7]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[7]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[8] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[8]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[9] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[9]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[8]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[10] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[10]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[11] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[11]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[12] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[12]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[10]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[13] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[13]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[14] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[9]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[14]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[12]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[15] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[15]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[16] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[16]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[17] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[17]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[18] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[18]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[14]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[11]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[22] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[22]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[13]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[16]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[18]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[23] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[23]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[25] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[25]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[26] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[26]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[23]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[28] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[28]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[29] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[29]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[30] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[30]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[26]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[31] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[31]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[28]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[32] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[32]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[31]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[22]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[17]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[33] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[33]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[25]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[34] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[34]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[15]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[33]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[35] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[35]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[37] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[37]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[30]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[39] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[39]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[40] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[40]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[37]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[35]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[39]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[36] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[36]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[38] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[41] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[41]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[38]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[41]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[42] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[42]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[38]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[40]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[43] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[43]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[36]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[44] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[44]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[45] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[45]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[42]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[44]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[46] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[46]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[47] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[47]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[48] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[48]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[29]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[32]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[49] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[49]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[50] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[50]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[48]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[43]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[49]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[47]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[51] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[51]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[50]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[52] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[52]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[46]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[45]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[34]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[53] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[53]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[52]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[54] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[54]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[55] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[55]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[56] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[56]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[51]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[57] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[57]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[58] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[58]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[59] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[59]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[54]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[55]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[53]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[60] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[60]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[61] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[61]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[57]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[62] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[62]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[63] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[63]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[64] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[64]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[65] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[65]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[62]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[63]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[58]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[66] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[66]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[59]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[67] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[67]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[68] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[68]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[60]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[69] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[69]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[70] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[70]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[71] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[71]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[72] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[72]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[73] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[73]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[74] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[74]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[75] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[75]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[76] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[76]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[68]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[56]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[61]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[69]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[71]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[76]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[72]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[73]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[77] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[77]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[66]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[65]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[74]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[70]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[67]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[64]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[75]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[78] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[78]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[77]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[78]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[79] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[79]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[80] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[80]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[81] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[81]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[82] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[82]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[83] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[83]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[84] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[84]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[85] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[85]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[79]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[80]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[81]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[82]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[83]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[84]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[86] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[86]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[86]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[87] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[87]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[87]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[88] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[88]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[89] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[89]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[90] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[90]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[91] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[91]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[92] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[92]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[93] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[93]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[94] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[94]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[85]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[95] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[95]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[96] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[96]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[89]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[97] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[97]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[90]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[98] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[98]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[99] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[99]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[93]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[94]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[100] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[100]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[101] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[101]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[102] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[102]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[103] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[103]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[104] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[104]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[105] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[105]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[106] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[106]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[107] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[107]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[108] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[108]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[109] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[109]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[110] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[110]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[111] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[111]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[112] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[112]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[113] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[113]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[114] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[114]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[102]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[115] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[115]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[116] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[116]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[117] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[117]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[118] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[118]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[108]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[97]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[106]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[118]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[111]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[104]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[88]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[109]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[119] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[119]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[101]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[96]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[120] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[120]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[121] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[121]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[114]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[105]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[122] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[122]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[123] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[123]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[124] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[124]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[125] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[125]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[126] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[126]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[100]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[116]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[121]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[127] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[127]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[122]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[119]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[124]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[117]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[120]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[98]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[107]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[128] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[128]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[92]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[123]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[103]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[126]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[127]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[115]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[91]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[125]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[128]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[110]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[99]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[95]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[129] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[129]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[130] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[130]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[131] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[131]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[132] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[132]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[133] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[133]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[129]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[130]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[131]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[132]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[133]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[134] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[134]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[113]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[112]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[134]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[135] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[135]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[135]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[136] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[136]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[136]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[137] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[137]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[137]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[138] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[138]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[139] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[139]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[140] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[140]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[141] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[141]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[142] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[142]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[143] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[143]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[144] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[144]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[139]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[138]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[142]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[140]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[143]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[141]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[144]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[145] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[145]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[146] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[146]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[147] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[147]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[148] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[148]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[149] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[149]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[150] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[150]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[151] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[151]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[152] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[152]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[153] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[153]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[154] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[154]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[155] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[155]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[156] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[156]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[157] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[157]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[158] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[158]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[159] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[159]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[160] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[160]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[161] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[161]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[162] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[162]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[163] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[163]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[164] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[164]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[165] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[165]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[166] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[166]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[167] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[167]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[168] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[168]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[169] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[169]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[170] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[170]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[171] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[171]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[172] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[172]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[173] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[173]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[147]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[174] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[174]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[175] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[175]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[176] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[176]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[177] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[177]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[146]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[178] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[178]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[179] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[179]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[180] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[180]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[181] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[181]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[182] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[182]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[148]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[183] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[183]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[184] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[184]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[185] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[185]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[186] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[186]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[187] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[187]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[188] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[188]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[189] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[189]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[190] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[190]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[191] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[191]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[192] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[192]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[193] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[193]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[194] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[194]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[195] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[195]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[145]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[196] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[196]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[197] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[197]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[198] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[198]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[199] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[199]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[200] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[200]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[201] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[201]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[202] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[202]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[203] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[203]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[204] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[204]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[205] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[205]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[206] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[206]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[207] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[207]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[208] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[208]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[209] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[209]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[210] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[210]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[211] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[211]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[212] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[212]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[213] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[213]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[214] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[214]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[215] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[215]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[216] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[216]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[217] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[217]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[218] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[218]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[219] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[219]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[220] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[220]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[221] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[221]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[222] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[222]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[223] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[223]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[156]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[224] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[224]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[225] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[225]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[226] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[226]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[227] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[227]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[228] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[228]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[229] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[229]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[230] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[230]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[231] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[231]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[232] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[232]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[169]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[233] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[233]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[234] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[234]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[235] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[235]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[236] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[236]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[237] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[237]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[238] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[238]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[239] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[239]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[240] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[240]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[241] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[241]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[242] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[242]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[243] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[243]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[244] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[244]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[155]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[245] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[245]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[246] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[246]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[150]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[247] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[247]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[248] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[248]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[249] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[249]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[250] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[250]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[251] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[251]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[252] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[252]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[253] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[253]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[254] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[254]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[255] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[255]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[256] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[256]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[257] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[257]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[258] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[258]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[259] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[259]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[260] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[260]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[151]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[261] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[261]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[262] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[262]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[215]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[205]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[228]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[207]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[226]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[188]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[221]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[197]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[238]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[230]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[189]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[184]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[234]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[186]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[210]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[237]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[194]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[192]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[225]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[200]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[154]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[162]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[159]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[158]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[152]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[166]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[157]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[160]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[263] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[263]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[264] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[264]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[265] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[265]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[266] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[266]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[267] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[267]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[268] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[268]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[149]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[153]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[163]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[161]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[212]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[217]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[198]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[208]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[202]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[213]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[170]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[176]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[263]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[264]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[265]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[266]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[267]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[268]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[204]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[195]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[177]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[236]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[222]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[185]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[231]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[191]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[190]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[243]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[246]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[241]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[269] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[269]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[270] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[270]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[271] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[271]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[272] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[272]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[273] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[273]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[274] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[274]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[244]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[201]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[242]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[216]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[220]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[171]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[240]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[180]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[206]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[196]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[173]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[235]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[229]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[233]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[175]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[219]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[211]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[179]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[224]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[218]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[187]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[172]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[168]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[209]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[178]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[193]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[245]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[239]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[165]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[199]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[182]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[174]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[227]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[181]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[232]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[214]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[223]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[164]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[183]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[203]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[250]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[253]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[254]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[251]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[261]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[248]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[255]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[259]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[252]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[260]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[249]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[256]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[247]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[167]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[269]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[270]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[271]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[272]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[273]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[274]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[262]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[258]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[257]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[275] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[275]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[275]断开链接
+[NORMAL][2024-07-18 20:42:14][pid:24955]addConnection sockfd[276] sucessful
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[276]建立链接成功
+[NORMAL][2024-07-18 20:42:14][pid:24955]sockfd[276]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[277] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[277]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[278] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[278]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[279] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[279]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[280] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[280]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[281] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[281]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[277]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[279]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[280]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[281]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[278]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[282] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[282]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[283] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[283]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[284] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[284]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[282]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[283]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[284]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[285] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[285]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[286] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[286]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[285]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[286]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[287] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[287]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[288] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[288]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[289] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[289]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[290] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[290]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[291] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[291]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[292] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[292]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[287]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[288]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[289]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[290]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[291]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[292]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[293] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[293]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[294] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[294]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[295] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[295]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[296] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[296]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[293]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[294]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[295]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[296]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[297] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[297]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[297]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[298] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[298]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[299] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[299]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[300] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[300]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[301] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[301]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[302] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[302]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[303] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[303]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[304] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[304]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[305] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[305]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[306] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[306]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[307] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[307]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[298]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[308] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[308]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[299]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[300]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[301]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[302]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[305]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[304]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[306]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[303]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[307]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[308]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[309] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[309]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[309]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[310] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[310]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[311] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[311]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[312] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[312]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[313] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[313]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[314] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[314]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[315] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[315]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[310]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[311]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[312]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[313]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[314]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[315]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[316] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[316]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[317] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[317]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[318] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[318]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[319] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[319]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[316]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[317]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[318]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[319]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[320] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[320]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[320]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[321] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[321]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[322] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[322]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[321]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[322]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[323] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[323]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[324] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[324]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[325] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[325]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[326] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[326]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[327] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[327]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[328] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[328]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[323]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[324]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[325]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[326]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[327]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[328]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[329] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[329]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[330] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[330]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[331] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[331]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[332] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[332]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[333] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[333]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[334] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[334]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[329]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[330]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[331]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[332]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[333]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[334]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[335] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[335]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[336] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[336]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[337] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[337]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[338] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[338]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[335]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[336]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[337]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[338]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[339] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[339]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[340] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[340]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[341] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[341]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[339]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[340]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[341]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[342] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[342]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[343] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[343]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[344] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[344]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[342]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[343]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[344]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[345] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[345]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[345]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[346] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[346]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[346]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[347] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[347]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[347]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[348] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[348]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[349] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[349]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[350] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[350]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[351] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[351]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[352] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[352]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[353] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[353]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[348]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[349]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[350]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[351]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[352]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[353]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[354] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[354]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[355] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[355]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[354]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[355]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[356] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[356]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[357] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[357]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[356]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[357]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[358] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[358]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[359] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[359]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[360] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[360]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[361] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[361]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[358]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[359]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[360]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[361]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[362] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[362]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[363] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[363]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[362]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[363]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[364] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[364]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]addConnection sockfd[365] sucessful
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[365]建立链接成功
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[364]断开链接
+[NORMAL][2024-07-18 20:42:15][pid:24955]sockfd[365]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[366] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[366]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[367] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[367]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[366]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[367]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[368] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[368]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[369] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[369]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[370] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[370]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[371] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[371]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[368]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[369]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[370]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[371]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[372] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[372]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[373] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[373]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[374] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[374]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[375] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[375]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[376] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[376]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[377] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[377]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[378] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[378]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[372]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[373]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[374]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[375]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[376]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[377]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[379] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[379]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[380] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[380]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[379]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[380]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[381] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[381]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[382] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[382]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[383] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[383]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[384] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[384]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[385] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[385]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[386] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[386]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[387] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[387]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[388] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[388]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[389] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[389]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[378]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[381]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[382]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[383]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[385]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[386]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[387]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[388]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[389]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[384]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[390] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[390]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[391] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[391]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[392] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[392]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[393] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[393]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[390]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[391]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[392]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[393]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[394] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[394]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[395] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[395]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[396] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[396]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[397] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[397]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[398] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[398]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[399] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[399]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[394]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[395]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[396]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[397]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[398]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[399]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[400] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[400]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[401] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[401]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[402] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[402]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[403] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[403]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[400]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[401]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[402]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[403]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[404] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[404]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]addConnection sockfd[405] sucessful
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[405]建立链接成功
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[404]断开链接
+[NORMAL][2024-07-18 20:42:17][pid:24955]sockfd[405]断开链接
+[NORMAL][2024-07-18 20:42:21][pid:24955]addConnection sockfd[406] sucessful
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[406]建立链接成功
+[NORMAL][2024-07-18 20:42:21][pid:24955]addConnection sockfd[407] sucessful
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[407]建立链接成功
+[NORMAL][2024-07-18 20:42:21][pid:24955]addConnection sockfd[408] sucessful
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[408]建立链接成功
+[NORMAL][2024-07-18 20:42:21][pid:24955]addConnection sockfd[409] sucessful
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[409]建立链接成功
+[NORMAL][2024-07-18 20:42:21][pid:24955]addConnection sockfd[410] sucessful
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[410]建立链接成功
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[406]断开链接
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[407]断开链接
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[408]断开链接
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[409]断开链接
+[NORMAL][2024-07-18 20:42:21][pid:24955]sockfd[410]断开链接
+[NORMAL][2024-07-18 20:45:37][pid:27135]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:45:37][pid:27135]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:45:44][pid:27135]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:45:44][pid:27135]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 20:45:44][pid:27135]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-18 20:45:44][pid:27135]sockfd[7]建立链接成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[6]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[5]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]成功
+[NORMAL][2024-07-18 20:45:44][pid:27135]发送信息给[7]失败
+[NORMAL][2024-07-18 20:52:13][pid:28426]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:52:13][pid:28426]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:52:47][pid:28426]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:52:47][pid:28426]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[5]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 20:52:47][pid:28426]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]成功
+[NORMAL][2024-07-18 20:52:47][pid:28426]发送信息给[6]失败
+[NORMAL][2024-07-18 20:53:42][pid:29142]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:53:42][pid:29142]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[7]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[8] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[8]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[6]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[9] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[9]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[10] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[10]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[11] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[11]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[12] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[12]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]addConnection sockfd[13] sucessful
+[NORMAL][2024-07-18 20:53:45][pid:29142]sockfd[13]建立链接成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]成功
+[NORMAL][2024-07-18 20:53:45][pid:29142]发送信息给[5]失败
+[NORMAL][2024-07-18 20:56:16][pid:29857]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:56:16][pid:29857]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:56:20][pid:29857]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:56:20][pid:29857]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 20:56:20][pid:29857]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-18 20:56:20][pid:29857]sockfd[7]建立链接成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]addConnection sockfd[8] sucessful
+[NORMAL][2024-07-18 20:56:20][pid:29857]sockfd[8]建立链接成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]addConnection sockfd[9] sucessful
+[NORMAL][2024-07-18 20:56:20][pid:29857]sockfd[9]建立链接成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]addConnection sockfd[10] sucessful
+[NORMAL][2024-07-18 20:56:20][pid:29857]sockfd[10]建立链接成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]addConnection sockfd[11] sucessful
+[NORMAL][2024-07-18 20:56:20][pid:29857]sockfd[11]建立链接成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[9]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[8]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[10]成功
+[NORMAL][2024-07-18 20:56:20][pid:29857]发送信息给[6]失败
+[NORMAL][2024-07-18 20:57:21][pid:30102]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:57:21][pid:30102]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:57:27][pid:30102]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:57:27][pid:30102]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[5]成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 20:57:27][pid:30102]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 20:57:27][pid:30102]发送信息给[6]成功
+[NORMAL][2024-07-18 20:58:59][pid:30340]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:58:59][pid:30340]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:59:05][pid:30340]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:59:05][pid:30340]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:59:05][pid:30340]发送信息给[5]成功
+[NORMAL][2024-07-18 20:59:41][pid:30546]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 20:59:41][pid:30546]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 20:59:45][pid:30546]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 20:59:45][pid:30546]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 20:59:45][pid:30546]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-18 20:59:45][pid:30546]sockfd[7]建立链接成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]addConnection sockfd[8] sucessful
+[NORMAL][2024-07-18 20:59:45][pid:30546]sockfd[8]建立链接成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]addConnection sockfd[9] sucessful
+[NORMAL][2024-07-18 20:59:45][pid:30546]sockfd[9]建立链接成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[9]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]addConnection sockfd[10] sucessful
+[NORMAL][2024-07-18 20:59:45][pid:30546]sockfd[10]建立链接成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]成功
+[NORMAL][2024-07-18 20:59:45][pid:30546]发送信息给[10]失败
+[NORMAL][2024-07-18 21:00:08][pid:30830]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 21:00:08][pid:30830]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 21:00:14][pid:30830]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 21:00:14][pid:30830]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 21:00:14][pid:30830]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-18 21:00:14][pid:30830]sockfd[7]建立链接成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]成功
+[NORMAL][2024-07-18 21:00:14][pid:30830]发送信息给[6]失败
+[NORMAL][2024-07-18 21:17:52][pid:31206]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 21:17:52][pid:31206]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 21:21:59][pid:32229]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 21:21:59][pid:32229]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 21:22:06][pid:32229]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 21:22:06][pid:32229]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 21:22:13][pid:32229]发送信息给[5]成功
+[NORMAL][2024-07-18 21:24:18][pid:32604]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 21:24:18][pid:32604]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-18 21:24:21][pid:32604]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-18 21:24:21][pid:32604]sockfd[5]建立链接成功
+[NORMAL][2024-07-18 21:24:31][pid:32604]发送信息给[5]成功
+[NORMAL][2024-07-18 21:24:40][pid:32604]发送信息给[5]成功
+[NORMAL][2024-07-18 21:24:47][pid:32604]发送信息给[5]成功
+[NORMAL][2024-07-18 21:24:57][pid:32604]发送信息给[5]成功
+[NORMAL][2024-07-18 21:25:05][pid:32604]发送信息给[5]成功
+[NORMAL][2024-07-18 21:25:24][pid:32604]发送信息给[5]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-18 21:25:45][pid:32604]sockfd[6]建立链接成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-18 21:25:45][pid:32604]sockfd[7]建立链接成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]成功
+[NORMAL][2024-07-18 21:25:45][pid:32604]发送信息给[6]失败
+[NORMAL][2024-07-18 21:26:23][pid:33234]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-18 21:26:23][pid:33234]服务器初始化完成，listenfd:3

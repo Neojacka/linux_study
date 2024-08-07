@@ -1,0 +1,7 @@
+total 24
+drwxrwxr-x. 2 hzz hzz    70 Feb 29 16:23 .
+drwxrwxr-x. 9 hzz hzz   117 Feb 24 16:00 ..
+-rw-rw-r--. 1 hzz hzz    67 Feb 18 14:51 makefile
+-rwxrwxr-x. 1 hzz hzz 13640 Feb 29 16:23 myshell
+-rw-rw-r--. 1 hzz hzz  3635 Feb 29 16:23 myshell.c
+-rw-rw-r--. 1 hzz hzz     0 Feb 29 16:24 test.txt

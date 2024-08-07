@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "cpp",
+        "iostream": "cpp",
+        "functional": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "mutex": "cpp",
+        "thread": "cpp"
+    }
+}

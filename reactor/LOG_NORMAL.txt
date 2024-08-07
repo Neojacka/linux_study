@@ -1,0 +1,71 @@
+[NORMAL][2024-07-12 16:33:43][pid:17116]addConnection sucessful
+[NORMAL][2024-07-12 16:33:43][pid:17116]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 16:39:37][pid:18041]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-12 16:39:37][pid:18041]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 16:41:11][pid:18231]进程:18231获取套接字:3成功
+[NORMAL][2024-07-12 16:48:49][pid:19464]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-12 16:48:49][pid:19464]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 16:49:19][pid:19528]进程:19528获取套接字:3成功
+[NORMAL][2024-07-12 16:49:19][pid:19464]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-12 16:49:19][pid:19464]sockfd[5]建立链接成功
+[NORMAL][2024-07-12 16:49:44][pid:19464]业务处理完成
+[NORMAL][2024-07-12 17:04:42][pid:20317]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-12 17:04:42][pid:20317]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 17:05:27][pid:20405]进程:20405获取套接字:3成功
+[NORMAL][2024-07-12 17:05:27][pid:20317]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-12 17:05:27][pid:20317]sockfd[5]建立链接成功
+[NORMAL][2024-07-12 17:05:36][pid:20317]发送信息给[5]成功
+[NORMAL][2024-07-12 17:05:36][pid:20317]业务处理完成
+[NORMAL][2024-07-12 17:10:03][pid:20702]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-12 17:10:03][pid:20702]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 17:10:10][pid:20778]进程:20778获取套接字:3成功
+[NORMAL][2024-07-12 17:10:10][pid:20702]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-12 17:10:10][pid:20702]sockfd[5]建立链接成功
+[NORMAL][2024-07-12 17:10:33][pid:20702]发送信息给[5]成功
+[NORMAL][2024-07-12 17:10:33][pid:20702]业务处理完成
+[NORMAL][2024-07-12 17:17:17][pid:21126]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-12 17:17:17][pid:21126]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 17:17:48][pid:21256]进程:21256获取套接字:3成功
+[NORMAL][2024-07-12 17:17:48][pid:21126]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-12 17:17:48][pid:21126]sockfd[5]建立链接成功
+[NORMAL][2024-07-12 17:18:10][pid:21126]发送信息给[5]成功
+[NORMAL][2024-07-12 17:18:10][pid:21126]业务处理完成
+[NORMAL][2024-07-12 17:21:07][pid:21655]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-12 17:21:07][pid:21655]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 17:21:22][pid:21734]进程:21734获取套接字:3成功
+[NORMAL][2024-07-12 17:21:22][pid:21655]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-12 17:21:22][pid:21655]sockfd[5]建立链接成功
+[NORMAL][2024-07-12 17:21:41][pid:21655]发送信息给[5]成功
+[NORMAL][2024-07-12 17:21:41][pid:21655]业务处理完成
+[NORMAL][2024-07-12 17:22:33][pid:22034]进程:22034获取套接字:3成功
+[NORMAL][2024-07-12 17:22:57][pid:22076]进程:22076获取套接字:3成功
+[NORMAL][2024-07-12 17:22:57][pid:21655]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-12 17:22:57][pid:21655]sockfd[6]建立链接成功
+[NORMAL][2024-07-12 17:23:11][pid:21655]发送信息给[6]成功
+[NORMAL][2024-07-12 17:23:11][pid:21655]业务处理完成
+[NORMAL][2024-07-12 17:24:55][pid:21655]addConnection sockfd[7] sucessful
+[NORMAL][2024-07-12 17:24:55][pid:21655]sockfd[7]建立链接成功
+[NORMAL][2024-07-12 17:42:15][pid:23434]addConnection sockfd[3] sucessful
+[NORMAL][2024-07-12 17:42:15][pid:23434]服务器初始化完成，listenfd:3
+[NORMAL][2024-07-12 17:42:31][pid:23511]进程:23511获取套接字:3成功
+[NORMAL][2024-07-12 17:42:31][pid:23434]addConnection sockfd[5] sucessful
+[NORMAL][2024-07-12 17:42:31][pid:23434]sockfd[5]建立链接成功
+[NORMAL][2024-07-12 17:42:36][pid:23434]发送信息给[5]成功
+[NORMAL][2024-07-12 17:42:36][pid:23434]业务处理完成
+[NORMAL][2024-07-12 17:42:42][pid:23434]发送信息给[5]成功
+[NORMAL][2024-07-12 17:42:42][pid:23434]业务处理完成
+[NORMAL][2024-07-12 17:42:50][pid:23434]发送信息给[5]成功
+[NORMAL][2024-07-12 17:42:50][pid:23434]业务处理完成
+[NORMAL][2024-07-12 17:43:02][pid:23727]进程:23727获取套接字:3成功
+[NORMAL][2024-07-12 17:43:02][pid:23434]addConnection sockfd[6] sucessful
+[NORMAL][2024-07-12 17:43:02][pid:23434]sockfd[6]建立链接成功
+[NORMAL][2024-07-12 17:43:18][pid:23434]发送信息给[6]成功
+[NORMAL][2024-07-12 17:43:18][pid:23434]业务处理完成
+[NORMAL][2024-07-12 17:45:04][pid:23434]发送信息给[6]成功
+[NORMAL][2024-07-12 17:45:04][pid:23434]业务处理完成
+[NORMAL][2024-07-12 17:45:20][pid:23434]发送信息给[6]成功
+[NORMAL][2024-07-12 17:45:20][pid:23434]业务处理完成
+[NORMAL][2024-07-12 17:45:26][pid:23434]发送信息给[6]成功
+[NORMAL][2024-07-12 17:45:26][pid:23434]业务处理完成
+[NORMAL][2024-07-12 17:45:34][pid:23434]发送信息给[6]成功
+[NORMAL][2024-07-12 17:45:34][pid:23434]业务处理完成
